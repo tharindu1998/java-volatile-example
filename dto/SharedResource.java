@@ -1,3 +1,5 @@
+package dto;
+
 public class SharedResource {
     // Using volatile keyword to ensure visibility
     private volatile boolean flag = false;

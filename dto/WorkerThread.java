@@ -1,3 +1,5 @@
+package dto;
+
 public class WorkerThread extends Thread {
     private SharedResource sharedResource;
 

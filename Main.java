@@ -1,3 +1,6 @@
+import dto.SharedResource;
+import dto.WorkerThread;
+
 public class Main {
     public static void main(String[] args) {
         SharedResource sharedResource = new SharedResource();
